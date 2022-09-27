@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Sijie Cheng is a third-year postgradute at Fudan University in School of Computer Science, Shanghai, China, where she is advised by Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en&oi=ao) at [Knowledge Work Lab](http://kw.fudan.edu.cn/). His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sijie Cheng is a third-year postgradute at Fudan University in School of Computer Science, Shanghai, China, where she is advised by Prof. [Yanghua Xiao](https://scholar.google.com/citations?user=odFW4FoAAAAJ&hl=en&oi=ao) at [Knowledge Work Lab](http://kw.fudan.edu.cn/). She had been working on analyzing and exploiting tacit knowledge inside foundation models, and currently devote to work on **world model**.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
