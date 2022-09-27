@@ -38,7 +38,7 @@ experience:
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2022-02-01'
-    description: Large Models as Continual Knowledge Bases.
+    description: Large models as continual knowledge bases, advised by Prof. [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/) and Prof. [Yang Liu](https://sites.google.com/site/yangliuveronica/).
 
   - title: Research Intern
     company: Natural Language Understanding Group, Meituan NLP Center
@@ -46,7 +46,23 @@ experience:
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2022-02-01'
-    description: Large Models as Continual Knowledge Bases.
+    description: Taxonomy relational knowledge extraction, working with [Rui Xie](https://scholar.google.com/citations?hl=en&user=_GaB4AQAAAAJ).
+
+  - title: Visiting Fellow
+    company: Text Intelligence Lab, Westlake University
+    company_logo: org-gc
+    location: Hangzhou, China
+    date_start: '2019-09-01'
+    date_end: '2020-09-01'
+    description: Analysis of Commonsense Knowledge in Pre-trained Language Model, advised by Prof. (Yue Zhang)[https://frcchang.github.io/].
+
+  - title: Summer School
+    company: Deecamp (Acceptance: 4.28%), Peking University 
+    company_logo: org-gc
+    location: Beijing, China
+    date_start: '2018-07-01'
+    date_end: '2018-08-01'
+    description:  Movie Recommendation with Knowledge Graph, advised by Dr. (Fuzheng Zhang)[https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=en].
 
 design:
   columns: '2'
