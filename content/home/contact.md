@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Contact widget.
 widget: contact
 
@@ -55,3 +55,4 @@ content:
 design:
   columns: '2'
 ---
+ -->
