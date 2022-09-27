@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Natural Language Processing Group, Pujiang Lab
     company_url: ''
-    company_logo: pjlab
+    company_logo: pjlab.png
     location: Shanghai, China
     date_start: '2022-03-01'
     date_end: ''
