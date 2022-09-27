@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://aclanthology.org/2021.findings-acl.61.pdf'
+url_pdf: 'acl21.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
