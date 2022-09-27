@@ -25,20 +25,28 @@ experience:
   - title: Research Intern
     company: Natural Language Processing Group, Pujiang Lab
     company_url: ''
-    company_logo: pjlab.png
+    company_logo: org-x
     location: Shanghai, China
     date_start: '2022-03-01'
     date_end: ''
     description: Free-text explanation for reasoning, working with Prof. [Lingpeng Kong](https://ikekonglp.github.io/).
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Joint-Supervision
+    company: Institue for AI Industry Research, Tsinghua University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-gc
+    location: Beijing, China
+    date_start: '2021-07-01'
+    date_end: '2022-02-01'
+    description: Large Models as Continual Knowledge Bases.
+
+  - title: Research Intern
+    company: Natural Language Understanding Group, Meituan NLP Center
+    company_logo: org-gc
+    location: Beijing, China
+    date_start: '2021-07-01'
+    date_end: '2022-02-01'
+    description: Large Models as Continual Knowledge Bases.
 
 design:
   columns: '2'
