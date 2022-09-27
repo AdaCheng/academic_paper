@@ -58,8 +58,7 @@ url_pdf: 'https://aclanthology.org/2021.findings-acl.61.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Two methods used to study structured commonsense knowledge in pre-trained
-Transformer.'
+  caption: ''
   focal_point: ''
   preview_only: false
 
