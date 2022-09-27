@@ -57,7 +57,7 @@ experience:
     description: Analysis of Commonsense Knowledge in Pre-trained Language Model, advised by Prof. (Yue Zhang)[https://frcchang.github.io/].
 
   - title: Summer School
-    company: Deecamp (Acceptance: 4.28%), Peking University 
+    company: Deecamp, Peking University 
     company_logo: org-gc
     location: Beijing, China
     date_start: '2018-07-01'
