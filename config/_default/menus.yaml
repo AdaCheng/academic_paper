@@ -18,10 +18,10 @@ main:
   #   weight: 40
   - name: Experience
     url: '#experience'
-    weight: 50  
+    weight: 20
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 30
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
