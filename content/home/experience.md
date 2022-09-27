@@ -54,7 +54,7 @@ experience:
     location: Hangzhou, China
     date_start: '2019-09-01'
     date_end: '2020-09-01'
-    description: Analysis of Commonsense Knowledge in Pre-trained Language Model, advised by Prof. (Yue Zhang)[https://frcchang.github.io/].
+    description: Analysis of Commonsense Knowledge in Pre-trained Language Model, advised by Prof. [Yue Zhang](https://frcchang.github.io/).
 
   - title: Summer School
     company: Deecamp, Peking University 
@@ -62,7 +62,7 @@ experience:
     location: Beijing, China
     date_start: '2018-07-01'
     date_end: '2018-08-01'
-    description:  Movie Recommendation with Knowledge Graph, advised by Dr. (Fuzheng Zhang)[https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=en].
+    description:  Movie Recommendation with Knowledge Graph, advised by Dr. [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=en).
 
 design:
   columns: '2'
