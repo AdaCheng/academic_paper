@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -43,3 +43,4 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+ -->
