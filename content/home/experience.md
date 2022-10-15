@@ -46,7 +46,7 @@ experience:
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2022-02-01'
-    description: Taxonomy relational knowledge extraction, working with [Rui Xie](https://scholar.google.com/citations?hl=en&user=_GaB4AQAAAAJ).
+    description: Taxonomy relational knowledge extraction, working with [Rui Xie](https://scholar.google.com/citations?hl=en&user=_GaB4AQAAAAJ). -> **ICDE 2022** and **ACL 2022**
 
   - title: Visiting Fellow
     company: Text Intelligence Lab, Westlake University
@@ -54,7 +54,7 @@ experience:
     location: Hangzhou, China
     date_start: '2019-09-01'
     date_end: '2020-09-01'
-    description: Analysis of commonsense knowledge in pre-trained language model, advised by Prof. [Yue Zhang](https://frcchang.github.io/).
+    description: Analysis of commonsense knowledge in pre-trained language model, advised by Prof. [Yue Zhang](https://frcchang.github.io/). -> **ACL 2021**
 
   - title: Summer School
     company: Deecamp, Peking University 

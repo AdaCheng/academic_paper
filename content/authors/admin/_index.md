@@ -14,7 +14,7 @@ organizations:
     url: https://www.fudan.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Keep Looking, Do not Settle.
+bio: Keep Looking, Do Not Settle.
 
 # Interests to show in About widget
 interests:
