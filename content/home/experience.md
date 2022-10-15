@@ -50,7 +50,7 @@ experience:
 
   - title: Visiting Fellow
     company: Text Intelligence Lab, Westlake University
-    company_logo: org-x
+    company_logo: org-westlake
     location: Hangzhou, China
     date_start: '2019-09-01'
     date_end: '2020-09-01'
