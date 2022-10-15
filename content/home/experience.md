@@ -34,7 +34,7 @@ experience:
   - title: Joint-Supervision
     company: Institue for AI Industry Research, Tsinghua University
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2022-02-01'
@@ -42,7 +42,7 @@ experience:
 
   - title: Research Intern
     company: Natural Language Understanding Group, Meituan NLP Center
-    company_logo: org-gc
+    company_logo: org-x
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2022-02-01'
@@ -50,7 +50,7 @@ experience:
 
   - title: Visiting Fellow
     company: Text Intelligence Lab, Westlake University
-    company_logo: org-gc
+    company_logo: org-x
     location: Hangzhou, China
     date_start: '2019-09-01'
     date_end: '2020-09-01'
@@ -58,7 +58,7 @@ experience:
 
   - title: Summer School
     company: Deecamp, Peking University 
-    company_logo: org-gc
+    company_logo: org-x
     location: Beijing, China
     date_start: '2018-07-01'
     date_end: '2018-08-01'
