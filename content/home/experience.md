@@ -42,7 +42,7 @@ experience:
 
   - title: Research Intern
     company: Natural Language Understanding Group, Meituan NLP Center
-    company_logo: org-x
+    company_logo: org-meituan
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2022-02-01'
