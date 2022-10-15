@@ -30,15 +30,15 @@ publishDate: '2018-11-17T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *38th IEEE International Conference on Data Engineering*
-publication_short: In *ICDE 2022*
+publication: In *2018 IEEE International Conference on Data Mining Workshops*
+publication_short: In *ICDM Workshops 2018*
 
-abstract: —Taxonomies have been widely used in various domains to underpin numerous applications. Specially, product taxonomies serve an essential role in the e-commerce domain for the recommendation, browsing, and query understanding. However, taxonomies need to constantly capture the newly emerged terms or concepts in e-commerce platforms to keep up-to-date, which is expensive and labor-intensive if it relies on manual maintenance and updates. Therefore, we target the taxonomy expansion task to attach new concepts to existing taxonomies automatically. In this paper, we present a self-supervised and user behavior-oriented product taxonomy expansion framework to append new concepts into existing taxonomies. Our framework extracts hyponymy relations that conform to users’ intentions and cognition. Specifically, i) to fully exploit user behavioral information, we extract candidate hyponymy relations that match user interests from query-click concepts; ii) to enhance the semantic information of new concepts and better detect hyponymy relations, we model concepts and relations through both usergenerated content and  tructural information in existing taxonomies and user click logs, by leveraging Pre-trained Language Models and Graph Neural Network combined with Contrastive Learning; iii) to reduce the cost of dataset construction and overcome data skews, we construct a high-quality and balanced training dataset from existing taxonomy with no supervision. Extensive experiments on real-world product taxonomies in Meituan Platform, a leading Chinese vertical e-commerce platform to order take-out with more than 70 million daily active users, demonstrate the superiority of our proposed framework over state-of-the-art methods. Notably, our method enlarges the size of real-world product taxonomies from 39,263 to 94,698 relations with 88% precision.
+abstract: Knowledge bases (KBs), which are typical heterogeneous graphs that contain numerous triple facts of various types and relations, have shown remarkable advantages in many natural language processing (NLP) tasks. KBs usually integrate information from different sources such as human-edited online encyclopedias, news articles and even social networks. Due to the heterogeneous nature of these sources, both the KBs themselves and their applications on NLP tasks are far from perfect. On the one hand, KBs need further completion and refining to cover more knowledge with higher qualities. On the other hand, the joint modeling of structured knowledge in KBs and unstructured texts have not been well investigated. This paper proposes a novel natural language enhanced association rules mining (NEARM) framework to improve KBs. NEARM finds knowledge fragments from free texts in a data-driven manner. It first groups raw data (sentences) which contains related entity pairs into clusters of different granularities, and then integrates them with facts from KBs to mine rules in each clusters. To capture the relations between plain text and triple facts, NEARM produces rules that contain natural language patterns and/or triple facts in antecedent, and triple facts in consequent. In this way, NEARM can infer triple facts directly from plain text. At last, experiment results demonstrate the effectiveness of the NEARM on relation classification and triple facts reasoning.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Taxonomy]
+tags: [Association Rules Mining]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835349'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637539'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
