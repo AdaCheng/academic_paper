@@ -1,27 +1,27 @@
 ---
-title: 'NEARM: Natural Language Enhanced Association Rules Mining'
+title: 'Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Shiya Ren
-  - Zhixing Li
-  - Huaming Wang
-  - Yuan Li
-  - Ke Shen
   - admin
+  - Zhouhong Gu
+  - Bang Liu
+  - Rui Xie
+  - Wei Wu
+  - Yanghua Xiao
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2018-01-01T00:00:00Z'
+date: '2022-05-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2018-11-17T00:00:00Z'
+publishDate: '2022-05-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
