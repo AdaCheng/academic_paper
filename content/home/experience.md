@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: Natural Language Processing Group, Pujiang Lab
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.shlab.org.cn/aboutus'
+    company_logo: org-pjlab
     location: Shanghai, China
     date_start: '2022-03-01'
     date_end: ''
@@ -33,7 +33,7 @@ experience:
 
   - title: Joint-Supervision
     company: Institue for AI Industry Research, Tsinghua University
-    company_url: ''
+    company_url: 'https://air.tsinghua.edu.cn/'
     company_logo: org-thu
     location: Beijing, China
     date_start: '2021-07-01'
@@ -42,6 +42,7 @@ experience:
 
   - title: Research Intern
     company: Natural Language Understanding Group, Meituan NLP Center
+    company_url: 'https://about.meituan.com/home' 
     company_logo: org-meituan
     location: Beijing, China
     date_start: '2021-07-01'
@@ -50,6 +51,7 @@ experience:
 
   - title: Visiting Fellow
     company: Text Intelligence Lab, Westlake University
+    company_url: 'https://www.westlake.edu.cn/' 
     company_logo: org-westlake
     location: Hangzhou, China
     date_start: '2019-09-01'
@@ -58,7 +60,8 @@ experience:
 
   - title: Summer School
     company: Deecamp, Peking University 
-    company_logo: org-x
+    company_url: 'https://www.pku.edu.cn/' 
+    company_logo: org-pku
     location: Beijing, China
     date_start: '2018-07-01'
     date_end: '2018-08-01'
