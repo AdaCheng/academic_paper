@@ -1,25 +1,27 @@
 ---
-title: 'On commonsense cues in bert for solving commonsense tasks'
+title: 'NEARM: Natural Language Enhanced Association Rules Mining'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Leyang Cui
+  - Shiya Ren
+  - Zhixing Li
+  - Huaming Wang
+  - Yuan Li
+  - Ke Shen
   - admin
-  - Yu Wu
-  - Yue Zhang
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-06-01T00:00:00Z'
+date: '2018-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-06-01T00:00:00Z'
+publishDate: '2018-11-17T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,15 +30,15 @@ publishDate: '2021-06-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing*
-publication_short: In *ACL-IJCNLP*
+publication: In *2018 IEEE International Conference on Data Mining Workshops*
+publication_short: In *ICDM Workshops*
 
-abstract: BERT has been used for solving commonsense tasks such as CommonsenseQA. While prior research has found that BERT does contain commonsense information to some extent, there has been work showing that pre-trained models can rely on spurious associations (e.g., data bias) rather than key cues in solving sentiment classification and other problems. We quantitatively investigate the presence of structural commonsense cues in BERT when solving commonsense tasks, and the importance of such cues for the model prediction. Using two different measures, we find that BERT does use relevant knowledge for solving the task, and the presence of commonsense knowledge is positively correlated to the model accuracy.
+abstract: Knowledge bases (KBs), which are typical heterogeneous graphs that contain numerous triple facts of various types and relations, have shown remarkable advantages in many natural language processing (NLP) tasks. KBs usually integrate information from different sources such as human-edited online encyclopedias, news articles and even social networks. Due to the heterogeneous nature of these sources, both the KBs themselves and their applications on NLP tasks are far from perfect. On the one hand, KBs need further completion and refining to cover more knowledge with higher qualities. On the other hand, the joint modeling of structured knowledge in KBs and unstructured texts have not been well investigated. This paper proposes a novel natural language enhanced association rules mining (NEARM) framework to improve KBs. NEARM finds knowledge fragments from free texts in a data-driven manner. It first groups raw data (sentences) which contains related entity pairs into clusters of different granularities, and then integrates them with facts from KBs to mine rules in each clusters. To capture the relations between plain text and triple facts, NEARM produces rules that contain natural language patterns and/or triple facts in antecedent, and triple facts in consequent. In this way, NEARM can infer triple facts directly from plain text. At last, experiment results demonstrate the effectiveness of the NEARM on relation classification and triple facts reasoning.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Foundation Models]
+tags: [Association Rules Mining]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/2021.findings-acl.61.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637539'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
