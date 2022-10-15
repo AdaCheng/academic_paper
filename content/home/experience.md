@@ -34,7 +34,7 @@ experience:
   - title: Joint-Supervision
     company: Institue for AI Industry Research, Tsinghua University
     company_url: ''
-    company_logo: org-x
+    company_logo: org-thu
     location: Beijing, China
     date_start: '2021-07-01'
     date_end: '2022-02-01'
